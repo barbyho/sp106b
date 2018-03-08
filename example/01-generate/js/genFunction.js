@@ -4,7 +4,7 @@ var p = U.probability
 
 // === BNF Grammar =====
 // Program = Function* Stmt*
-// Function = function fname '('  ') {' Stmt* '}'  
+// Function = function fname '(' id {, id}* ') {' Stmt+ '}'   
 // Stmt = While | Assign
 // While = while Exp { Stmt+ }
 // Assign = id '=' (Exp | Call)
