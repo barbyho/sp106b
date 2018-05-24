@@ -1,6 +1,10 @@
+# nand2tetris
+
+
 # linux
 *.o
 *.log
+a.out
 
 *.bak
 
