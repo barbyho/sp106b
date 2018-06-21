@@ -5,4 +5,4 @@
 評分時老師會看這裡！
 
 我們的專案: (用PPT呈現)
-https://drive.google.com/file/d/1LXyOCtbrneSft1JmLRxW0JEKSHcGqKE8/view?usp=sharing
+https://drive.google.com/open?id=1xpZ8WG-d6yl7w9naXGmrUf8ARIgSFEdW
